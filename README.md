@@ -1,16 +1,16 @@
-# Web Extension 🚀
+# 🎥 YouTube Bookmark Extension 🚀
 
-A powerful and customizable browser extension designed to enhance your web experience.
+A **Chrome extension** that lets you save and manage bookmarks for specific timestamps in YouTube videos.
 
 ## 🌟 Features
-- 🚀 Fast and lightweight
-- 🔒 Secure and privacy-focused
-- 🎨 Customizable UI
-- ⚡ Seamless integration with your browser
+- 📌 **Save bookmarks** at specific timestamps in a YouTube video.
+- 🎥 **Quickly jump** to saved timestamps.
+- 🗑 **Delete bookmarks** easily.
+- 🔄 **Syncs across tabs** for seamless access.
 
 ## 📦 Installation
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/blazethunderstorm/web-extension.git
-cd web-extension
+git clone https://github.com/blazethunderstorm/youtube-bookmark-extension.git
+cd youtube-bookmark-extension
