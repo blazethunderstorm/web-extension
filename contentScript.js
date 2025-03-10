@@ -10,7 +10,7 @@
         });
       });
     };
-  
+     
     const addNewBookmarkEventHandler = async () => {
       const currentTime = youtubePlayer.currentTime;
       const newBookmark = {
